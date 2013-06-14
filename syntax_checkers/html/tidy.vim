@@ -55,6 +55,7 @@ let s:ignore_html_errors = [
                 \ "<meta> lacks \"content\" attribute",
                 \ "inserting \"type\" attribute",
                 \ "proprietary attribute \"data-",
+                \ "proprietary attribute \"ng-",
                 \ "missing <!DOCTYPE> declaration",
                 \ "inserting implicit <body>",
                 \ "inserting missing 'title' element",
